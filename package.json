@@ -2,7 +2,6 @@
   "name": "@buchanaf/postcss-dependencies",
   "version": "1.0.0",
   "description": "A module of modules for centralizing postcss-dependencies",
-  "main": "index.js",
   "keywords": [
     "postcss"
   ],
