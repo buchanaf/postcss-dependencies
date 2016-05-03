@@ -1,0 +1,23 @@
+{
+  "name": "@buchanaf/postcss-dependencies",
+  "version": "1.0.0",
+  "description": "A module of modules for centralizing postcss-dependencies",
+  "main": "index.js",
+  "keywords": [
+    "postcss"
+  ],
+  "author": "@buchanaf/postcss-dependencies",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^5.0.21",
+    "postcss-clearfix": "^1.0.0",
+    "postcss-cssnext": "^2.5.2",
+    "postcss-extend": "^1.0.1",
+    "postcss-import": "^8.1.0",
+    "postcss-mixins": "^4.0.1",
+    "postcss-nested": "^1.0.0",
+    "postcss-simple-vars": "^1.2.0",
+    "stylelint": "^6.2.2",
+    "stylelint-config-strict": "^5.0.0"
+  }
+}
